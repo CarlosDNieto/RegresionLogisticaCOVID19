@@ -1,0 +1,25 @@
+carlosnieto-bucket
+
+Para conectarse con la MASTER de aws
+ssh hadoop@ec2-3-235-128-12.compute-1.amazonaws.com -i ~/Desktop/bigdata-key.pem.txt
+
+
+ec2-3-91-174-191.compute-1.amazonaws.com
+-i ~/Desktop/bigdata-key.pem.txt
+
+
+apache-spark 2.4.6
+a157234806dab2da69b5fc8101c7153b703293a5
+
+
+a157234806dab2da69b5fc8101c7153b703293a5
+
+
+
+apache-spark 2.4.5 (#49875)
+dd82ecf2530166aee7f9d0b17c3cf8a3101c111a
+
+1.8.0_252
+
+
+/Library/Java/JavaVirtualMachines/openjdk-14.0.1.jdk/Contents/Home
